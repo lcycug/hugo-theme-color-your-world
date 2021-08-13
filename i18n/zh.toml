@@ -1,0 +1,166 @@
+# Header & Footer
+
+[ariaMainMenu]
+other = "Main menu."
+
+[changeAccent]
+other = "更改颜色"
+
+[changeMode]
+other = "切换浅色/深色主题"
+
+[noscript]
+other = "由于某些功能被禁用，页面无法运行JavaScript。"
+
+
+# Pages
+
+[anchorFor]
+other = "Anchor for"
+
+[tableOfContents]
+other = "目录"
+
+[publishedOn]
+other = "首次发布于"
+
+[lastUpdatedOn]
+other = "最后更新于"
+
+
+# Footnotes
+
+[references]
+other = "References"
+
+[seeFootnotes]
+other = "See footnotes."
+
+[return]
+other = "返回"
+
+[returnToText]
+other = "Return to text."
+
+
+# Contact form
+
+[name]
+other = "姓名"
+
+[subject]
+other = "主题"
+
+[message]
+other = "内容"
+
+[submit]
+other = "发送"
+
+
+# List (layout)
+
+[tag]
+other = "标签"
+
+[tags]
+other = "标签"
+
+[category]
+other = "分类"
+
+[categories]
+other = "分类"
+
+[ariaPagination]
+other = "Pagination navigation."
+
+[ariaGoToPage]
+other = "到第{{ .PageNumber }}页"
+
+[ariaGoToFirst]
+other = "第一页"
+
+[ariaGoToNext]
+other = "下一页"
+
+[ariaGoToPrev]
+other = "上一页"
+
+[ariaGoToLast]
+other = "最后一页"
+
+
+# List (meta tags)
+
+[page]
+other = "页"
+
+[of]
+other = "/"
+
+[posts]
+other = "文章列表"
+
+[postsUnderTag]
+other = "Posts under the \"{{ .Title }}\" tag."
+
+[postsUnderCategory]
+other = "Posts under the \"{{ .Title }}\" category."
+
+[pageContaining]
+other = "Page containing"
+
+
+# Search form
+
+[searchLabel]
+other = "搜索文章"
+
+[searchAriaButton]
+other = "开始查询"
+
+[searchInput]
+other = "Search field. Accepts from {{ .minLength }} to {{ .maxLength }} characters."
+
+
+# Search results page
+
+[searchNoPageFound]
+other = "没有找到相关文章"
+
+[searchResultsFor]
+other = "关键字"
+
+[searchOnePageFound]
+other = "找到一个页面"
+
+[searchPagesFound]
+other = "个页面被找到"
+
+[searchAwaitingSearch]
+other = "Awaiting search."
+
+[searchTooMany]
+other = "Too many pages found. Please try to repeat the search using another term."
+
+
+# Translations
+
+[alsoAvailable]
+other = "本页同时支持"
+
+[and]
+other = " 和 "
+
+
+# Misc
+
+[missingCodec]
+other = "Your browser doesn't support HTML5 audio/video."
+
+[boxContainingCode]
+other = "Box containing code sample."
+
+[boxContainingExpression]
+other = "Box containing expression."
